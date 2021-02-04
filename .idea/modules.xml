@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security/security.iml" filepath="$PROJECT_DIR$/security/security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootsetup.iml" filepath="$PROJECT_DIR$/springbootsetup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
     </modules>
   </component>
 </project>
